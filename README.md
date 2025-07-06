@@ -6,7 +6,7 @@
 | link youtube |           |
 
 ## Daftar Isi
-- [📄 DAFTAR PRAKTIKUM](#daftarpraktikum)
+- [📄 DAFTAR PRAKTIKUM](#daftar-praktikum)
 - [⚛️ Teknologi yang Digunakan](#teknologiyangdigunakan)
 - [🚀 Alat Pengembangan & Pengujian](#alatpengembanganpengujian)
 - [📊 Kegunaan Aplikasi Artikel](#kegunaanaplikasiartikel)
