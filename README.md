@@ -16,7 +16,7 @@
 - [VueJs](#vuejs)
 
 
-#  📄 DAFTAR PRAKTIKUM
+# 📄 DAFTAR PRAKTIKUM
 | Praktikum | Judul Praktikum                          | Deskripsi Singkat                          |
 |----|------------------------------------------|--------------------------------------------|
 | 1  | PHP Framework (Codeigniter)                  | Setup awal CI4 secara manual.              |
