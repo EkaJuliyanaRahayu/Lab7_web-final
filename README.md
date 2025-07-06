@@ -8,12 +8,13 @@
 ## 📑 Daftar Isi
 
 - [📄 DAFTAR PRAKTIKUM](#📄-daftar-praktikum)
-- [⚛️ Teknologi yang Digunakan](#teknologi-yang-digunakan)
-- [🚀 Alat Pengembangan & Pengujian](#alat-pengembangan--pengujian)
-- [📊 Kegunaan Aplikasi Artikel](#kegunaan-aplikasi-artikel)
-- [🔧 Fitur-fitur utama (User)](#fitur-fitur-utama-user)
-- [🔧 Fitur-fitur utama (Admin)](#fitur-fitur-utama-admin)
+- [⚛️ Teknologi yang Digunakan](#⚛️-teknologi-yang-digunakan)
+- [🚀 Alat Pengembangan & Pengujian](#🚀-alat-pengembangan--pengujian)
+- [📊 Kegunaan Aplikasi Artikel](#📊-kegunaan-aplikasi-artikel)
+- [🔧 Fitur-fitur utama (User)](#🔧-fitur-fitur-utama-user)
+- [🔧 Fitur-fitur utama (Admin)](#🔧-fitur-fitur-utama-admin)
 - [VueJs](#vuejs)
+
 
 
 # 📄 DAFTAR PRAKTIKUM
