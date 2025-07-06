@@ -5,30 +5,15 @@
 | Mata Kuliah | Pemrograman Web2 |
 | link youtube |           |
 
-# DAFTAR ISI
+## Daftar Isi
 - [📄 DAFTAR PRAKTIKUM](#daftar-praktikum)
 - [⚛️ Teknologi yang Digunakan](#teknologi-yang-digunakan)
-  - [Backend](#1-backend)
-  - [Frontend](#2-frontend)
-  - [Tool & Testing](#3-tool--testing)
 - [🚀 Alat Pengembangan & Pengujian](#alat-pengembangan--pengujian)
-  - [GET (Menampilkan semua data)](#get-menampilkan-semua-data)
-  - [POST (Menambah data)](#post-menambah-data-)
-  - [PUT (Mengubah data)](#put-mengubah-data)
-  - [DELETE (Menghapus data)](#delete-menghapus-data)
 - [📊 Kegunaan Aplikasi Artikel](#kegunaan-aplikasi-artikel)
 - [🔧 Fitur-fitur utama (User)](#fitur-fitur-utama-user)
-  - [Home](#home)
-  - [Artikel](#artikel)
-  - [About](#about)
-  - [Kontak](#kontak)
 - [🔧 Fitur-fitur utama (Admin)](#fitur-fitur-utama-admin)
-  - [Login](#login)
-  - [Artikel (Admin)](#artikel-admin)
-  - [Tambah artikel](#tambah-artikel)
-  - [Ubah artikel](#ubah-artikel)
-  - [Hapus artikel](#hapus-artikel)
 - [VueJs](#vuejs)
+
 
 
 
