@@ -1,3 +1,15 @@
+|Nama  | Eka Juliyana Rahayu |
+| -----| ------------------ |
+|NIM   | 312310594 |
+|kelas | TI.23.A6 |
+| Mata Kuliah | Pemrograman Web2 |
+| link youtube |           |
+
+
+
+
+
+
 | No | Judul Praktikum                          | Deskripsi Singkat                          |
 |----|------------------------------------------|--------------------------------------------|
 | 1  | PHP Framework (Codeigniter)                  | Setup awal CI4 secara manual.              |
