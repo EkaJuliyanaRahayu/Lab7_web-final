@@ -5,11 +5,7 @@
 | Mata Kuliah | Pemrograman Web2 |
 | link youtube |           |
 
-
-
-
-
-
+#  📄 DAFTAR PRAKTIKUM
 | No | Judul Praktikum                          | Deskripsi Singkat                          |
 |----|------------------------------------------|--------------------------------------------|
 | 1  | PHP Framework (Codeigniter)                  | Setup awal CI4 secara manual.              |
