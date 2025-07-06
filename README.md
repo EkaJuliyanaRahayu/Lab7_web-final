@@ -7,17 +7,18 @@
 
 ## 📑 Daftar Isi
 
-- [📄 DAFTAR PRAKTIKUM](#📄-daftar-praktikum)
-- [⚛️ Teknologi yang Digunakan](#⚛️-teknologi-yang-digunakan)
-- [🚀 Alat Pengembangan & Pengujian](#🚀-alat-pengembangan--pengujian)
-- [📊 Kegunaan Aplikasi Artikel](#📊-kegunaan-aplikasi-artikel)
-- [🔧 Fitur-fitur utama (User)](#🔧-fitur-fitur-utama-user)
-- [🔧 Fitur-fitur utama (Admin)](#🔧-fitur-fitur-utama-admin)
+- [📄 DAFTAR PRAKTIKUM](#daftar-praktikum)
+- [⚛️ Teknologi yang Digunakan](#teknologi-yang-digunakan)
+- [🚀 Alat Pengembangan & Pengujian](#alat-pengembangan--pengujian)
+- [📊 Kegunaan Aplikasi Artikel](#kegunaan-aplikasi-artikel)
+- [🔧 Fitur-fitur utama (User)](#fitur-fitur-utama-user)
+- [🔧 Fitur-fitur utama (Admin)](#fitur-fitur-utama-admin)
 - [VueJs](#vuejs)
 
 
 
-# 📄 DAFTAR PRAKTIKUM
+
+## 📄 DAFTAR PRAKTIKUM
 | Praktikum | Judul Praktikum                          | Deskripsi Singkat                          |
 |----|------------------------------------------|--------------------------------------------|
 | 1  | PHP Framework (Codeigniter)                  | Setup awal CI4 secara manual.              |
@@ -32,8 +33,8 @@
 | 10 | Testing API dengan Postman               | Uji semua endpoint API menggunakan Postman |
 | 11 | Vue.js            | Integrasi frontend Vue.js dengan REST API  |
 
-# ⚛️ Teknologi yang Digunakan
-## 1. Backend:
+## ⚛️ Teknologi yang Digunakan
+### 1. Backend:
    - PHP 8.x
      Bahasa pemrograman utama untuk pengembangan sisi server.
    - CodeIgniter 4
@@ -42,7 +43,7 @@
      Sistem manajemen basis data yang menyimpan informasi artikel dan kategori.
    - RESTful API (CodeIgniter ResourceController)
      Digunakan untuk membuat endpoint yang dapat diakses oleh aplikasi frontend atau klien lain (seperti Postman).
-## 2. Frontend:
+### 2. Frontend:
    - HTML5 & CSS3
      Digunakan untuk struktur dan styling dasar halaman.
    - JavaScript (ES6)
@@ -53,7 +54,7 @@
      Framework JavaScript modern untuk membuat tampilan dinamis dan reaktif.
    - Axios
      Library JavaScript untuk melakukan HTTP request ke API secara asynchronous.
-## 3. Tool & Testing:
+### 3. Tool & Testing:
    - Postman
      Aplikasi REST Client yang digunakan untuk menguji endpoint REST API (GET, POST, PUT, DELETE).
    - VS Code / Code Editor lain
@@ -63,20 +64,20 @@
    - Browser (Chrome / Firefox)
      Untuk menampilkan dan menguji antarmuka aplikasi.
 
-# 🚀 Alat Pengembangan & Pengujian:
+## 🚀 Alat Pengembangan & Pengujian:
 
 * Postmant: Digunakan untuk mencoba berbagai metode HTTP (GET, POST, PUT, DELETE) pada REST API.
 
-  ## GET (Menampilkan semua data)
+  ### GET (Menampilkan semua data)
   ![Screenshot 2025-07-06 185520](https://github.com/user-attachments/assets/07917073-5d80-45f0-885f-c4006d64b623)
 
-  ## POST (Menambah data )
+  ### POST (Menambah data )
   ![Screenshot 2025-07-06 185300](https://github.com/user-attachments/assets/ee9e52ba-6825-4a18-9064-46c7639bfa56)
 
-  ## PUT (Mengubah data)
+  ### PUT (Mengubah data)
   ![Screenshot 2025-07-06 194909](https://github.com/user-attachments/assets/55855d14-7da2-45d7-b467-7eca9751f884)
 
-  ## DELETE (Menghapus data)
+  ### DELETE (Menghapus data)
   ![Screenshot 2025-07-06 184950](https://github.com/user-attachments/assets/df2c6fc1-58af-4cc1-b5c1-c2de5e74c2cf)
 
 * VS Code / Editor lainnya: membuat dan mengelola kode program.
@@ -85,13 +86,13 @@
 
 
 
-# 📊 Kegunaan Aplikasi Artikel
+## 📊 Kegunaan Aplikasi Artikel
   Aplikasi Artikel ini adalah aplikasi web berbasis CodeIgniter 4 yang dirancang untuk membantu pengguna menyimpan, mengelola, dan menampilkan konten artikel secara dinamis. Aplikasi ini dapat digunakan oleh admin maupun user umum, dengan dukungan berbagai fitur seperti CRUD (Create, Read, Update, Delete), filter, pencarian, serta API untuk integrasi frontend modern.
 Aplikasi Artikel ini merupakan aplikasi web berbasis CodeIgniter 4 yang dikembangkan untuk memudahkan pengguna dalam membuat, mengedit, menghapus, dan menampilkan artikel secara dinamis. Aplikasi ini menyediakan fitur CRUD (Create, Read, Update, Delete) dan mendukung pengelolaan status artikel seperti draft dan publish, sehingga admin dapat mengatur konten sesuai kebutuhan.
   Selain itu, aplikasi ini juga dilengkapi dengan RESTful API yang memungkinkan integrasi dengan frontend modern seperti Vue.js, sehingga tampilan artikel dapat lebih interaktif dan responsif. Aplikasi ini cocok digunakan untuk keperluan blog, portal berita sederhana, atau sistem manajemen konten lainnya.
 
 
-# 🔧 Fitur-fitur utama (User) :
+## 🔧 Fitur-fitur utama (User) :
 
 ### 🏠 Home
 ![image](https://github.com/user-attachments/assets/afebcabc-c04f-415b-8945-8af329aaaf31)
@@ -106,7 +107,7 @@ Aplikasi Artikel ini merupakan aplikasi web berbasis CodeIgniter 4 yang dikemban
 ### 📞 Kontak
 ![image](https://github.com/user-attachments/assets/b3553e26-911a-4c77-b41a-f6fc7f8ed50c)
 
-# 🔧 Fitur-fitur utama (Admin) :
+## 🔧 Fitur-fitur utama (Admin) :
 
 ### 🔐 Login
 ![image](https://github.com/user-attachments/assets/bd97867b-e6d8-4543-a3ff-d97275887420)
@@ -123,7 +124,7 @@ Aplikasi Artikel ini merupakan aplikasi web berbasis CodeIgniter 4 yang dikemban
 ### 🗑️ Hapus artikel
 ![image](https://github.com/user-attachments/assets/e7bdbde7-5353-4d2e-999b-ac52565a0b06)
 
-# VueJs
+## VueJs
 ![image](https://github.com/user-attachments/assets/05a77ab8-13cc-4606-8f13-db5428dc6c95)
 
 ![image](https://github.com/user-attachments/assets/38bd8bef-f97d-442c-bb6b-330347e64401)
