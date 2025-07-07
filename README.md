@@ -3,7 +3,7 @@
 |NIM   | 312310594 |
 |kelas | TI.23.A6 |
 | Mata Kuliah | Pemrograman Web2 |
-| link youtube |           |
+| link youtube | https://youtu.be/8z0RKUCDYjM   |
 
 ## 📄 DAFTAR PRAKTIKUM
 | Praktikum | Judul Praktikum                          | Deskripsi Singkat                          |
