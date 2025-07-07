@@ -41,15 +41,6 @@
      Framework JavaScript modern untuk membuat tampilan dinamis dan reaktif.
    - Axios
      Library JavaScript untuk melakukan HTTP request ke API secara asynchronous.
-### 3. Tool & Testing:
-   - Postman
-     Aplikasi REST Client yang digunakan untuk menguji endpoint REST API (GET, POST, PUT, DELETE).
-   - VS Code / Code Editor lain
-     Untuk menulis kode backend dan frontend.
-   - XAMPP / Laragon / Apache + MySQL
-     Digunakan untuk menjalankan server lokal (localhost) selama pengembangan.
-   - Browser (Chrome / Firefox)
-     Untuk menampilkan dan menguji antarmuka aplikasi.
 
 ## 🚀 Alat Pengembangan & Pengujian:
 
